@@ -1,0 +1,19 @@
+# globals
+*~
+#*#
+
+# octave files
+octave-core
+
+# these files got dumped for some reason
+core.*
+
+# large mat files
+*.mat
+*.fig
+
+# Mac files
+*.DS_Store
+*.png
+
+
