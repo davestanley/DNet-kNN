@@ -10,7 +10,7 @@ https://www.cs.toronto.edu/~hinton/
 
 
 INSTRUCTIONS
-============
+------------
 
 
 
